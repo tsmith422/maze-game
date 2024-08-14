@@ -39,3 +39,5 @@ created anything visual using javascript before. The project required the use of
 sound, graphics, and some level of user interaction.
 
 I was tasked with creating this project using the p5.js website: [p5.js](https://p5js.org/)
+
+Copyright (c) 2022 Taylor Smith
