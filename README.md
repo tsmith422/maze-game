@@ -1,4 +1,5 @@
 # Maze Game
+Spring 2022 Computer Fluency Final Project
 
 ## Permissions
 It is imperative that in the link you allow the web
@@ -40,4 +41,4 @@ sound, graphics, and some level of user interaction.
 
 I was tasked with creating this project using the p5.js website: [p5.js](https://p5js.org/)
 
-Copyright (c) 2022 Taylor Smith
+*Copyright (c) 2022 Taylor Smith*
