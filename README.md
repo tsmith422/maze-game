@@ -33,7 +33,7 @@ button, please press the esc fullscreen button and then press esc once
 more. You may then go back into fullscreen; please stick to using only
 the fullscreen button to traverse the fullscreen.
 
-## Creator's Note
+# Creator's Note
 This project was made in my senior year of high school as my final project
 for my University of Texas Computer Fluency course; I had never programmed or
 created anything visual using javascript before. The project required the use of
